@@ -1,0 +1,13 @@
+* {
+  background-color: #87CEEB;
+  font-size: 30px;
+  color: #000000;
+}
+.container span {
+  font-size: 30px;
+  color: black;
+}
+button .btn {
+  font-size: 27px;
+  background-color: purple;
+}
